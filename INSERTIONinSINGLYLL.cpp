@@ -80,5 +80,7 @@ int main(){
     insertAtMiddle(tail,head,4,98);
     print(head);
     cout<<endl;
+
+    // output is--- 67 6 4 98 2 11 8 77
 }
    
